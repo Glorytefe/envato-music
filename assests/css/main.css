@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
 :root {
     --main-bg-color: black;
     --main-txt-color: white;
@@ -116,7 +118,7 @@ margin-bottom: 3px!important;
 
 .btn-empty {
     border-radius: 0px!important;
-    background-color: var(--main-bg-color);
+    /* background-color: var(--main-bg-color); */
     padding: 8px 25px!important;
     position: absolute;    
     margin-top: -5px; 
